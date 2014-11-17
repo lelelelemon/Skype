@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="C:/alljoyn-14.06.00a-win7x64vs2012-sdk/alljoyn-14.06.00a-win7x64vs2012-sdk-rel/java/jar/alljoyn.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/alljoyn-14.06.00a-win7x64vs2012-sdk/alljoyn-14.06.00a-win7x64vs2012-sdk-rel/java/docs/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/alljoyn-14.06.00a-win7x64vs2012-sdk/alljoyn-14.06.00a-win7x64vs2012-sdk-rel/java/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/javacv-bin/javacv.jar"/>
+	<classpathentry kind="lib" path="C:/Users/v-junyan/Desktop/vlcj-3.0.1/vlcj-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
